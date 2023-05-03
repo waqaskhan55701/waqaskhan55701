@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Waqas Khan
-- 👀 I’m interested in Web, and web 3.0
-- 🌱 I’m currently learning NodeJS and Express
+- 🌱 Environmental friendly Software Engineer
 
 <!---
 waqaskhan55701/waqaskhan55701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
