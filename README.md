@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Waqas Khan
-- 🌱 Environmental friendly Software Engineer
+- 🌱 Your friendly neighbourhood Software Engineer
 
 <!---
 waqaskhan55701/waqaskhan55701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
